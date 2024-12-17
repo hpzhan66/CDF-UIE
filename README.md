@@ -31,4 +31,4 @@ Visual comparisons
 
 <!-- If you have any problem with the released code, please do not hesitate to open an issue.-->
 
-For any inquiries or questions, please contact me by email hp_zhang19@outlook.com
+For any inquiries or questions, don't hesitate to get in touch with me by email hp_zhang19@outlook.com
