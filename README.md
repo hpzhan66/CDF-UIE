@@ -10,7 +10,7 @@ This is the official repository of CDF-UIE: Leveraging Cross-Domain Fusion for U
 
 ## Overview
 
-![Overview Image](img/fig_idea.png)
+![Overview Image](img/fig idea.png)
 
 ## Usage
 
