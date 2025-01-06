@@ -10,12 +10,7 @@ This is the official repository of CDF-UIE: Leveraging Cross-Domain Fusion for U
 
 ## Overview
 
-
-## Results
-
-Visual comparisons  
-
-
+![Overview Image](img/fig_idea.png)
 
 ## Usage
 
@@ -23,7 +18,9 @@ Visual comparisons
 - Python = 3.8
 - Pytorch >= 2.0.0
 - CUDA >= 11.8
+
 ### Train
+
 An example of training on UIEB
 ```
  python src/train.py --dataset-name UIEB --train-dir ./data/UIEB/train --valid-dir ./data/UIEB/val --ckpt-save-path ../ckpts --nb-epochs 5000   
