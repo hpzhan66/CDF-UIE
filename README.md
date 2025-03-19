@@ -32,6 +32,8 @@ An example of testing on UIEB
 ```
  python src/test_PSNR.py --dataset-name UIEB --path ./data/UIEB/test   
 ```
+## Citation
+If you find our paper and code useful for your research, please consider citing us and giving a star to our repository:
 ## Acknowlegement
 This code is based on [BasicSR](https://github.com/XPixelGroup/BasicSR), [UHDFour](https://github.com/Li-Chongyi/UHDFour), [Restormer](https://github.com/swz30/Restormer). 
 
